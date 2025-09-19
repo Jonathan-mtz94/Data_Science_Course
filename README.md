@@ -1,2 +1,2 @@
 # Data_Science_Course
-Notebook of Data Science course
+Notebooks of Data Science course
